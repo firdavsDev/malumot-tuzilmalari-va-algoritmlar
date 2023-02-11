@@ -9,10 +9,13 @@ Bu repositoryni rivojlantirishga, o'z hissangizni qo'shishni istasangiz, xatolik
 ## Mundarija: 
 
 ### Ma'lumotlar tuzilmalari va algoritmlariga kirish
-+ Nima bu ma'lumotlar tuzilmalari va algoritmlar?
-+ Yaxshi ma'lumot tuzilmalari va algoritmlar qanday xususiyatlarga ega bo'ladi?
-+ Asimptotik belgi
-+ Vaqt va joy murakkabligi (Time and space complexity) 
++ Nima bu ma'lumot tuzilmalari va algoritmlar?
++ Dasturlashda ma'lumot tuzilmalari va algoritmlarining o'rni
++ Ma'lumot tuzilmalarining turlari
++ Algoritmlarning turlari
++ Vaqt va joy murakkabligi (Time and space complexity)
++ Ma'lumot tuzilmalari va algoritmlar qachon va qayerda ishlatiladi?
++ Nega ma'lumot tuzilmalari va algoritmlarni o'rganish kerak?
 
 ### Massivlar (Array) va bog'langan ro'yxatlar (Linked List)
 + Massivlar va ularning amallari
