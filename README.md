@@ -9,7 +9,7 @@ Agar repository yoqsa, yulduzcha bosib qo'llab quvvatlashni unutmang!
 Mavzular bilan tanishing:
 
 ### Kirish
-+ Nima bu ma'lumot tuzilmalari va algoritmlar?
++ __[Nima bu ma'lumot tuzilmalari va algoritmlar?](https://github.com/devfarhod/malumot-tuzilmalari-va-algoritmlar#nima-bu-malumot-tuzilmalari-va-algoritmlar)__
 + Dasturlashda ma'lumot tuzilmalari va algoritmlarining o'rni
 + Ma'lumot tuzilmalarining turlari
 + Algoritmlarning turlari
