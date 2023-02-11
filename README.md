@@ -1,12 +1,12 @@
 # Ma'lumot tuzilmalari va algoritmlar 😎
 
-Ma'lumot tuzilmalari va algoritmlarini O'zbek tilida o'rganishga bag'ishlangan ushbu repository - ga xush kelibsiz. Bu qullanma yordamida siz ma'lumot tuzilmalari va algorithmlarni batafsil o'rganishingiz mumkin. Qo'llanmada misollar Python va JavaScript dasturlash tillarida keltiriladi. 
+Ma'lumot tuzilmalari va algoritmlarini O'zbek tilida o'rganishga bag'ishlangan ushbu repository - ga xush kelibsiz. Bu qo'llanma yordamida siz ma'lumot tuzilmalari va algoritmlarni batafsil o'rganishingiz mumkin. Qo'llanmada misollar Python va JavaScript dasturlash tillarida keltiriladi. 
 
 Siz boshlang'ich darajadagi dasturchi bo'lasizmi yoki bilimingizni kengaytirmoqchi boʻlgan tajribali dasturchi, bu repository - da siz uchun yangilik topiladi. 
 
 Agar repository yoqsa, yulduzcha bosib qo'llab quvvatlashni unutmang!
 
-## Mundarija: 
+Mavzular bilan tanishing:
 
 ### Kirish
 + Nima bu ma'lumot tuzilmalari va algoritmlar?
