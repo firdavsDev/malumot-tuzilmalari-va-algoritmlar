@@ -8,7 +8,7 @@ Agar repository yoqsa, yulduzcha bosib qo'llab quvvatlashni unutmang!
 
 ## Mundarija
 
-### Kirish
+### Boshlang'ich tushunchalar
 + __[Nima bu ma'lumot tuzilmalari va algoritmlar?](https://github.com/devfarhod/malumot-tuzilmalari-va-algoritmlar/blob/main/kirish/nima_bu_malumot_tuzilmalari_va_algorithmlar.md)__
 + Dasturlashda ma'lumot tuzilmalari va algoritmlarining o'rni
 + Ma'lumot tuzilmalarining turlari
