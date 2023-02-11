@@ -8,7 +8,7 @@ Bu repositoryni rivojlantirishga, o'z hissangizni qo'shishni istasangiz, xatolik
 
 ## Mundarija: 
 
-### Ma'lumotlar tuzilmalari va algoritmlariga kirish
+### Kirish
 + Nima bu ma'lumot tuzilmalari va algoritmlar?
 + Dasturlashda ma'lumot tuzilmalari va algoritmlarining o'rni
 + Ma'lumot tuzilmalarining turlari
