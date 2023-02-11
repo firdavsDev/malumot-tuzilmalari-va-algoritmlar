@@ -10,9 +10,9 @@ Bu repositoryni rivojlantirishga, o'z hissangizni qo'shishni istasangiz, xatolik
 
 ### Ma'lumotlar tuzilmalari va algoritmlariga kirish
 + Nima bu ma'lumotlar tuzilmalari va algoritmlar?
-+ Yaxshi ma'lumotlar tuzilmalari va algoritmlarining xususiyatlari
++ Yaxshi ma'lumot tuzilmalari va algoritmlar qanday xususiyatlarga ega bo'ladi?
 + Asimptotik belgi
-+ Vaqt va joy murakkabligi (Time and space complexity)
++ Vaqt va joy murakkabligi (Time and space complexity) 
 
 ### Massivlar (Array) va bog'langan ro'yxatlar (Linked List)
 + Massivlar va ularning amallari
