@@ -9,7 +9,7 @@ Bu repositoryni rivojlantirishga, o'z hissangizni qo'shishni istasangiz, xatolik
 ## Mundarija: 
 
 ### Ma'lumotlar tuzilmalari va algoritmlariga kirish
-+ Ma'lumotlar tuzilmalari va algoritmlarining ta'rifi
++ Nima bu ma'lumotlar tuzilmalari va algoritmlar?
 + Yaxshi ma'lumotlar tuzilmalari va algoritmlarining xususiyatlari
 + Asimptotik belgi
 + Vaqt va joy murakkabligi (Time and space complexity)
