@@ -1,4 +1,4 @@
-## Nima bu ma'lumot tuzilmalari va algoritmlar?
+# Nima bu ma'lumot tuzilmalari va algoritmlar?
 
 Ma'lumot tuzilmalari va algoritmlari mazali taom tayyorlash uchun retsept va ingredientlarga o'xshaydi. Retsept - bu algoritm bo'lib, u sizga taom tayyorlash uchun qanday amallarni bajarish kerakligini aytadi. Ingredientlar ma'lumotlar tuzilmalari bo'lib, ular ovqat tayyorlash uchun foydalanadigan turli komponentlardir. Yaxshi retsept va sifatli ingredientlardan mazali taom tayyorlangani kabi, to'g'ri ma'lumot tuzilmalari va algoritmlardan foydalanish dasturni yaxshi ishlashi va muammolarni samarali hal qilishga sababchi bo'ladi.
 

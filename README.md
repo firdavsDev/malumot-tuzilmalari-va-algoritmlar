@@ -9,8 +9,8 @@ Agar repository yoqsa, yulduzcha bosib qo'llab quvvatlashni unutmang!
 ## Mundarija
 
 ### Boshlang'ich tushunchalar
-+ __[Nima bu ma'lumot tuzilmalari va algoritmlar?](https://github.com/devfarhod/malumot-tuzilmalari-va-algoritmlar/blob/main/kirish/nima_bu_malumot_tuzilmalari_va_algorithmlar.md)__
-+ Dasturlashda ma'lumot tuzilmalari va algoritmlarining o'rni
++ __[Nima bu ma'lumot tuzilmalari va algoritmlar?](https://github.com/devfarhod/malumot-tuzilmalari-va-algoritmlar/blob/main/topics/intro/what_is_dsa.md)__
++ __[Dasturlashda ma'lumot tuzilmalari va algoritmlarining o'rni](https://github.com/devfarhod/malumot-tuzilmalari-va-algoritmlar/blob/main/topics/intro/dsa_role.md)__
 + Ma'lumot tuzilmalarining turlari
 + Algoritmlarning turlari
 + Vaqt va joy murakkabligi (Time and space complexity)
