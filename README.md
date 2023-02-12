@@ -1,4 +1,6 @@
-# Ma'lumot tuzilmalari va algoritmlar 😎
+# Ma'lumot tuzilmalari va algoritmlar
+
+![Hero image](https://github.com/devfarhod/malumot-tuzilmalari-va-algoritmlar/blob/main/images/hero.png)
 
 Ma'lumot tuzilmalari va algoritmlarini O'zbek tilida o'rganishga bag'ishlangan ushbu repository - ga xush kelibsiz. Bu qo'llanma yordamida siz ma'lumot tuzilmalari va algoritmlarni batafsil o'rganishingiz mumkin. Qo'llanmada misollar Python va JavaScript dasturlash tillarida keltiriladi. 
 
