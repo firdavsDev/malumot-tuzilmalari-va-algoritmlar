@@ -6,8 +6,6 @@ Ma'lumot tuzilmalari va algoritmlarini O'zbek tilida o'rganishga bag'ishlangan u
 
 Siz boshlang'ich darajadagi dasturchi bo'lasizmi yoki bilimingizni kengaytirmoqchi boʻlgan tajribali dasturchi, bu repository - da siz uchun yangilik topiladi. 
 
-Agar repository yoqsa, yulduzcha bosib qo'llab quvvatlashni unutmang!
-
 ## Mundarija
 
 ### Boshlang'ich tushunchalar
